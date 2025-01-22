@@ -1,10 +1,10 @@
 {
-  "domain": "ds_air",
-  "name": "DS-AIR",
-  "documentation": "https://github.com/mypal/ha-dsair",
+  "domain": "ds_air-copy",
+  "name": "DS-AIR-copy",
+  "documentation": "https://github.com/yyl217/ha-dsair-copy",
   "dependencies": [],
-  "codeowners": ["@mypal"],
+  "codeowners": ["@yyl217"],
   "requirements": [],
-  "version": "1.3.5",
+  "version": "1.3.6",
   "config_flow": true
 }
